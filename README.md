@@ -36,17 +36,6 @@ In the world of data-driven finance, predicting future stock behavior such as op
 
 ---
 
-## 📊 Results Summary
-
-| Model | RMSE | MAPE |
-|-------|------|------|
-| ARIMA | *...* | *...* |
-| SARIMA | *...* | *...* |
-
-> *Fill in the actual values after evaluation.*
-
----
-
 ## 📌 Technologies Used
 
 - Python (pandas, numpy, matplotlib, seaborn)
